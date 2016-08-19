@@ -1,6 +1,6 @@
 [submodule "Pokemon-Go-Rocket-API"]
 	path = Pokemon-Go-Rocket-API
-	url = https://github.com/DurtyFree/Pokemon-Go-Rocket-API.git
+	url = https://github.com/FeroxRev/Pokemon-Go-Rocket-API.git
 	branch = master
 [submodule "POGOProtos"]
 	path = POGOProtos
