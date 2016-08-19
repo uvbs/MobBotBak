@@ -2,3 +2,6 @@
 	path = Pokemon-Go-Rocket-API
 	url = https://github.com/DurtyFree/Pokemon-Go-Rocket-API.git
 	branch = master
+[submodule "POGOProtos"]
+	path = POGOProtos
+	url = https://github.com/AeonLucid/POGOProtos.git
